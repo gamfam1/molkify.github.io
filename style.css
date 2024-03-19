@@ -47,16 +47,7 @@ button:hover {
        background-color: grey;
 }
 .emag {
-        background-color: #000;
-      border-radius: 5px;
-   border:0;
-  padding-left: 30px
-  padding-right: 30px;
-  padding-top: 20px;
-  padding-bottom: 20px;
-    color: white;
-      font-family: "Poppins", serif;
-   font-size: large;
+background-color: #000;
 width:400px;
 height:400px;
 }
